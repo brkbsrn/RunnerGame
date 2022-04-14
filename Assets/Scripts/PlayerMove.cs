@@ -8,7 +8,7 @@ public class PlayerMove : MonoBehaviour
 {
     public float MoveSpeed;
     private Animator anim;
-    private bool game;
+    
 
     private void Awake()
     {
